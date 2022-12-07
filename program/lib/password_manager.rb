@@ -1,5 +1,5 @@
 class PasswordManager
-  # First we initalise the password has as a global variable using the @ - :D
+  # First we initalise the password has as a global variable using the @ 
   def initialize
       @passwords = {}
   end
